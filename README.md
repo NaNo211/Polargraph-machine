@@ -18,7 +18,7 @@ The purpose of the polar drawing machine is that it could be used in education p
     - Power Supply (12v)
     - Adapter 5V/3.5A
 3. for software we used a software called "processing" for that here the link : https://processing.org and thanks for euphy we used his code for the motors and servo controllers the package is here : https://github.com/euphy/polargraphcontroller/releases/tag/2017-11-01-20-30
-4. for the wiring we desing a scematic for that here : and we start by connecting and motor and servo to the motor drive and attach it to the arduino and hange the motor with rubber built. 
+4. for the wiring we desing a scematic for that here : ![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/main/Polargraph-scematic.png) and we start by connecting and motor and servo to the motor drive and attach it to the arduino and hange the motor with rubber built. 
 
 --------------------------------------------------------------------------------------------------------------------------------
 # updates:
