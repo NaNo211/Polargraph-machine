@@ -2,6 +2,9 @@
 This project stimulates a software image to paint it on any surface (with any width and height) using electric stepper motors that generates discrete angular movement to move the wires that are attached with a pen and draws the image.
 The purpose of the polar drawing machine is that it could be used in education purposes and art schools in assisting the theachers by demonstrating any image, and the most important purpose of the project is that we can draw any image that we want on any surface with various dimensions.
 
+Detailed Report: [here]
+
+Presentation: [here]
 
 # First Phase Goal:
 Draw a 1 color image on a specific white board.
@@ -58,6 +61,6 @@ Draw a 1 color image on a specific white board.
 We are still updating the project as:
 we are willing to implement a scrpit that will automatically split channels of an image, convert it to SVG, and insert it to the processing software with the integration of a hardware design that will switch automatically between different color pens.
 The, we will integrate this project with the neural style transfer project.
-For any information contact nadaSamir@student.aast.edu.
+For any information contact nadaSamir@student.aast.edu or nourmorse21@gmail.com.
 
 
