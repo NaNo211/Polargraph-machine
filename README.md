@@ -35,7 +35,7 @@ Draw a 1 color image on a specific white board.
 
 
 # First Phase Output:
-![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/db20860e17724f7c4718f5ae097af7a70a877486/First_Phase_Images/WhatsApp%20Image%202023-02-01%20at%2014.31.14.jpeg)
+![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/main/images/first_phase/2.jpeg)
 
 
 # Second Phase Goal:
