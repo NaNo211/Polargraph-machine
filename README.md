@@ -1,9 +1,11 @@
 # Polargraph-machine
 This project stimulates a software image to paint it on any surface (with any width and height) using electric stepper motors that generates discrete angular movement to move the wires that are attached with a pen and draws the image.
-The purpose of the polar drawing machine is that it could be used in education purposes and art schools in assisting the teachers by demonstrating any image, and the most important purpose of the project is that we can draw any image that we want on any surface with various dimensions.
+The purpose of the polar drawing machine is that it could be used in education purposes and art schools in assisting the theachers by demonstrating any image, and the most important purpose of the project is that we can draw any image that we want on any surface with various dimensions.
+
 --------------------------------------------------------------------------------------------------------------------------------
 # First Phase Goal:
- Draw a 1 color image on a specific white board.
+Draw a 1 color image on a specific white board.
+
 --------------------------------------------------------------------------------------------------------------------------------
 # Steps:
 1. Selecting the plotter 3D design: https://www.thingiverse.com/thing:2371117/files and we used plastic for that
@@ -28,12 +30,15 @@ The purpose of the polar drawing machine is that it could be used in education p
 --------------------------------------------------------------------------------------------------------------------------------
 # First Phase Output:
 ![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/main/Polargraph-machine.JPG)
+
 --------------------------------------------------------------------------------------------------------------------------------
 # Second Phase Goal:
  Draw a full color image on a specific white board.
+
 --------------------------------------------------------------------------------------------------------------------------------
 # Concept:
  According to artistic drawing and printing a colored image is produced through merging a specific set of colors with different distributions according to the color intensities in a point, so referencing to the CMYK model, we merged 4 colored pens (Cyan, Magenta, Yellow, Magenta) to draw a full color image.
+
 --------------------------------------------------------------------------------------------------------------------------------
 # Steps:
 1. After selecting an image, we insert the image Death2Sharpie alogrithm to split it to CMYK channels.
@@ -44,6 +49,7 @@ The purpose of the polar drawing machine is that it could be used in education p
 --------------------------------------------------------------------------------------------------------------------------------
 # Second Phase Output:
 ![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/main/Polargraph-machine.JPG)
+
 --------------------------------------------------------------------------------------------------------------------------------
 # Updates:
 We are still updating the project as:
