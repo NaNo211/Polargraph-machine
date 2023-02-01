@@ -2,9 +2,9 @@
 This project stimulates a software image to paint it on any surface (with any width and height) using electric stepper motors that generates discrete angular movement to move the wires that are attached with a pen and draws the image.
 The purpose of the polar drawing machine is that it could be used in education purposes and art schools in assisting the theachers by demonstrating any image, and the most important purpose of the project is that we can draw any image that we want on any surface with various dimensions.
 
-Detailed Report: [here]
+Detailed Report: [here](https://github.com/NaNo211/Polargraph-machine/blob/db20860e17724f7c4718f5ae097af7a70a877486/202104091545%20Plotter%20Drawing%20Robot-converted.pdf)
 
-Presentation: [here]
+Presentation: [here](https://github.com/NaNo211/Polargraph-machine/blob/db20860e17724f7c4718f5ae097af7a70a877486/polargraph-final-presentation.pptx)
 
 # First Phase Goal:
 Draw a 1 color image on a specific white board.
@@ -35,7 +35,7 @@ Draw a 1 color image on a specific white board.
 
 
 # First Phase Output:
-![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/main/Polargraph-machine.JPG)
+![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/db20860e17724f7c4718f5ae097af7a70a877486/First_Phase_Images/WhatsApp%20Image%202023-02-01%20at%2014.31.14.jpeg)
 
 
 # Second Phase Goal:
@@ -54,7 +54,7 @@ Draw a 1 color image on a specific white board.
 5. Printing each layer independently and manually changing pen and channel 4 times.
 
 # Second Phase Output:
-![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/main/Polargraph-machine.JPG)
+![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/db20860e17724f7c4718f5ae097af7a70a877486/Second_Phase_Images/WhatsApp%20Image%202023-02-01%20at%2014.31.15.jpeg)
 
 
 # Updates:
