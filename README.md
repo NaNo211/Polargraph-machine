@@ -24,8 +24,11 @@ Draw a 1 color image on a specific white board.
 3. The wiring schematic: ![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/main/Polargraph-scematic.png)
    Connecting stepper motors and servo to the motor drive and attach it to the Arduino, then anttach the motors with rubber built. 
    
+5. After selecting an image, we converted it to grey scale, then to SVG format.
+   
 4. Software used is called "processing". The link : https://processing.org 
-    Thanks for Euphy we used his code for the motors and servo controllers. The package link : https://github.com/euphy/polargraphcontroller/releases/tag/2017-11-01-   20-30
+    Thanks for Euphy we used his code for the motors and servo controllers. The package link : https://github.com/euphy/polargraphcontroller/releases/tag/2017-11-01-20-30
+    We insert the the formatted image to the software, it then generates the vector path points and sends it to the microctroller.
 
 
 # First Phase Output:
