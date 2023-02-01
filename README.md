@@ -58,6 +58,6 @@ Draw a 1 color image on a specific white board.
 We are still updating the project as:
 we are willing to implement a scrpit that will automatically split channels of an image, convert it to SVG, and insert it to the processing software with the integration of a hardware design that will switch automatically between different color pens.
 The, we will integrate this project with the neural style transfer project.
-for any information contact nadaSamir@student.aast.edu.
+For any information contact nadaSamir@student.aast.edu.
 
 
