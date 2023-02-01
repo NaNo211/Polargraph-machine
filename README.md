@@ -54,7 +54,7 @@ Draw a 1 color image on a specific white board.
 5. Printing each layer independently and manually changing pen and channel 4 times.
 
 # Second Phase Output:
-![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/db20860e17724f7c4718f5ae097af7a70a877486/Second_Phase_Images/WhatsApp%20Image%202023-02-01%20at%2014.31.15.jpeg)
+![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/main/images/second_phase/4.jpeg)
 
 
 # Updates:
