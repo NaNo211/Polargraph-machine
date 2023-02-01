@@ -6,7 +6,7 @@ The purpose of the polar drawing machine is that it could be used in education p
 # First Phase Goal:
 Draw a 1 color image on a specific white board.
 
---------------------------------------------------------------------------------------------------------------------------------
+
 # Steps:
 1. Selecting the plotter 3D design: https://www.thingiverse.com/thing:2371117/files and we used plastic for that
 
@@ -27,30 +27,30 @@ Draw a 1 color image on a specific white board.
 4. Software used is called "processing". The link : https://processing.org 
     Thanks for Euphy we used his code for the motors and servo controllers. The package link : https://github.com/euphy/polargraphcontroller/releases/tag/2017-11-01-   20-30
 
---------------------------------------------------------------------------------------------------------------------------------
+
 # First Phase Output:
 ![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/main/Polargraph-machine.JPG)
 
---------------------------------------------------------------------------------------------------------------------------------
+
 # Second Phase Goal:
  Draw a full color image on a specific white board.
 
---------------------------------------------------------------------------------------------------------------------------------
+
 # Concept:
  According to artistic drawing and printing a colored image is produced through merging a specific set of colors with different distributions according to the color intensities in a point, so referencing to the CMYK model, we merged 4 colored pens (Cyan, Magenta, Yellow, Magenta) to draw a full color image.
 
---------------------------------------------------------------------------------------------------------------------------------
+
 # Steps:
 1. After selecting an image, we insert the image Death2Sharpie alogrithm to split it to CMYK channels.
 2. We attach the corresponding color pen of channel.
 3. We generate the SVG format of each layer.
 4. We insert the SVG for each layer to the processing software that generates the corresponging path.
 5. Printing each layer independently and manually changing pen and channel 4 times.
---------------------------------------------------------------------------------------------------------------------------------
+
 # Second Phase Output:
 ![this is an image](https://github.com/NaNo211/Polargraph-machine/blob/main/Polargraph-machine.JPG)
 
---------------------------------------------------------------------------------------------------------------------------------
+
 # Updates:
 We are still updating the project as:
 we are willing to implement a scrpit that will automatically split channels of an image, convert it to SVG, and insert it to the processing software with the integration of a hardware design that will switch automatically between different color pens.
