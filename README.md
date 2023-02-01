@@ -2,7 +2,7 @@
 This project stimulates a software image to paint it on any surface (with any width and height) using electric stepper motors that generates discrete angular movement to move the wires that are attached with a pen and draws the image.
 The purpose of the polar drawing machine is that it could be used in education purposes and art schools in assisting the theachers by demonstrating any image, and the most important purpose of the project is that we can draw any image that we want on any surface with various dimensions.
 
---------------------------------------------------------------------------------------------------------------------------------
+
 # First Phase Goal:
 Draw a 1 color image on a specific white board.
 
